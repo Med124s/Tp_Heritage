@@ -1,4 +1,4 @@
-package Exercice_5.Exercice_7_Polymorphisme;
+package Exercice_7_Polymorphisme;
 
 /**
  * @author med20
